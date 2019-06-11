@@ -1,0 +1,25 @@
+name: "nates-website"
+output_dir: "."
+navbar:
+  title: "Nate Johnson"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Projects and Interests"
+      href: projects.html
+    - text: "Publications"
+      href: pubs.html
+
+output:
+  html_document:
+    # theme: flatly
+    # theme: spacelab # looks pretty good
+    # theme: sandstone # no, too dark
+    # theme: united # orang bar
+    # theme: yeti # this one's ok
+    # theme: readable # really like this one's simplicity. Need to change font
+    theme: paper # simple and good. will stick with for now.
+    css: style.css
+    fontsize: 15pt
+
+    # urlcolor: blue
