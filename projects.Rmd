@@ -23,9 +23,9 @@ Alignment and annotation of sRNA-seq data suffers from high-rates of ambiguously
 
 
 
-###The search for Xylan synthase in plants
+###The search for xylan synthase in plants
 
-Xylan is one of the most common polymers in the essential cell wall component: hemicellulose, but the molecular machinery directly responsible for its synthesis was unclear. This project detailed phylogenetic analysis of gene families to narrow a search for this protein. Protein expression in N. benthamiana and P. pastoris, followed by purification and in vitro as well as in vivo assays helped to discover the enzyme essential for xylan backbone synthesis.
+Xylan is one of the most common polymers in the essential cell wall component: hemicellulose, but the molecular machinery directly responsible for its synthesis was unclear. This project detailed phylogenetic analysis of gene families to narrow a search for this protein. Protein expression in *N. benthamiana* and *P. pastoris*, followed by purification and in vitro as well as in vivo assays helped to discover the enzyme essential for xylan backbone synthesis.
 
 * JK Jensen, **NR Johnson** and CG Wilkerson. ["Arabidopsis thaliana IRX10 and two related proteins from psyllium and Physcomitrella patens are xylan xylosyltransferases"](https://doi.org/10.1111/tpj.12641). *The Plant Journal* (2014) - **Research**
 
