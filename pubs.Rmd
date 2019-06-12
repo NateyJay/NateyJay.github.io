@@ -3,7 +3,7 @@ title: "Publications"
 output: html_document
 ---
 
-# Publications  
+<!-- # Publications   -->
   
 * S Shahid, G Kim, **NR Johnson**, E Wafula, F Wang, C Coruh, V Bernal-Galeano, T Phifer, CW dePamphilis, JH Westwood, MJ Axtell. ["MicroRNAs from the parasitic plant Cuscuta campestris target host messenger RNAs"](https://doi.org/10.1038/nature25027). *Nature* (2018)
 
