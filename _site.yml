@@ -22,4 +22,4 @@ output:
     css: style.css
     fontsize: 15pt
 
-    # urlcolor: blue
+    # urlcolor: red

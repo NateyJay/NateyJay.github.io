@@ -3,7 +3,14 @@
 #not our site because of other projects we were 
 #working on at the time. 
 
-setwd("/Volumes/Keep/+google_drive/++personal_website/NateyJay.github.io")
+setwd("/Volumes/Keep/+google_drive/++github/NateyJay.github.io")
+
+# library(knitr)
+# library(png)
+# library(jpeg)
+# 
+# img1 <- readJPEG("./projects/photos/pot-holder.jpg")
+
 
 #render your sweet site. 
 rmarkdown::render_site()

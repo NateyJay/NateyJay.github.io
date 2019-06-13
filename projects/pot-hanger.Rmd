@@ -1,0 +1,8 @@
+---
+title: "Pot hanger"
+output: html_document
+---
+
+Just another simple woodworking project to enhance our tiny apartment. Our limited cupboard-space mixed with a love for food made pan storage a necessity. I constructed the frame out of pine with a steel rod for hanger support. It can hold a lot and has been for years!
+
+![](./photos/pot-hanger.jpg){width=50%}

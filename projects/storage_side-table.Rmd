@@ -1,0 +1,6 @@
+---
+title: "Storage side-table"
+output: html_document
+---
+
+This was the first project where I designed the piece in cad and then built it to those exact specifications. It was fun and allowed us to really have a precise idea of what the table would look like and be able to hold. Turned out pretty well I think!
