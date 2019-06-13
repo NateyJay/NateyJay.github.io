@@ -54,6 +54,7 @@ Xylan is one of the most common polymers in the essential cell wall component: h
 * https://github.com/MikeAxtell - Mike Axtell's github page, where you can find ShortStack and other useful scripts.
 * http://axtelldata.bio.psu.edu/data/old_scripts/find_3p_adapter/ - Box folder containing a perennially useful script: find_3p_adapter.pl
     * This script can look for a user-supplied common miRNA in untrimmed sRNA-sequencing data to infer what the 3p adapter is. Unbeliveably helpful for when working with publicly available datasets.
+* https://www.ascb.org/careers/how-to-print-a-fabric-poster/ -  a guide to printing fabric posters for conferences. The company www.spoonflower.com is the actual service and they do good work. Recently they replaced the **"performance knit"** with **"performance pique"** - not as good but still a nice poster.
 
 #
 
