@@ -1,7 +1,7 @@
 --- 
 ---
 <div style= "float:right;position: relative; top: 10px;">
-*Computational plant-biologist interested in plant evolution and genomics*
+*Computational biologist interested in plant evolution and genomics*
 
 <center>
 <div style= "float:right;position: relative; top: 0px;">
