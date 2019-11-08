@@ -19,6 +19,8 @@ Small regulatory RNAs (sRNAs) are thought to function in *trans*-species regulat
 
 Alignment and annotation of sRNA-seq data suffers from high-rates of ambiguously mapping reads. Methods in the field inadequately solved this problem, leading us to implement algorithms for estimating read alignment in our lab's tool: ShortStack. Testing against simulated and real data show that this new method in ShortStack is much more precise in aligning miRNAs and small interfering RNAs than other available methods.
 
+* A Lunardon, __NR Johnson__, E Hagerot, T Phifer, S Polydore, C Coruh, and MJ Axtell. [Integrated annotations and analyses of small RNA-producing loci from 47 diverse plants](https://doi.org/10.1101/756858). *BioRxiv* (2019) -- **Preprint**
+
 * __NR Johnson__, J Yeoh, C Coruh and MJ Axtell. [Improved Placement of Multi-Mapping Small RNAs](https://doi.org/10.1534/g3.116.030452). *G3* (2016) - **Research**<br/><br/>
 
 

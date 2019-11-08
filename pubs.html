@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -70,9 +71,7 @@ h6 {
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -86,7 +85,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -191,8 +189,6 @@ $(document).ready(function () {
 });
 </script>
 
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
 
 <style type="text/css">
@@ -249,20 +245,17 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -306,7 +299,8 @@ $(document).ready(function () {
 
 
 <ol style="list-style-type: decimal">
-<li><p><strong>NR Johnson</strong>, CW dePamphilis, and MJ Axtell. <a href="not_functional.yet">Compensatory sequence variation between trans-species small RNAs and their target sites</a>, <em>BioRxiv</em> (2019) - <strong>Preprint</strong></p></li>
+<li><p>A Lunardon, <strong>NR Johnson</strong>, E Hagerot, T Phifer, S Polydore, C Coruh, and MJ Axtell. <a href="https://doi.org/10.1101/756858">Integrated annotations and analyses of small RNA-producing loci from 47 diverse plants</a>, <em>BioRxiv</em> (2019) – <strong>Preprint</strong></p></li>
+<li><p><strong>NR Johnson</strong>, CW dePamphilis, and MJ Axtell. <a href="https://doi.org/10.1101/675900v1">Compensatory sequence variation between trans-species small RNAs and their target sites</a>, <em>BioRxiv</em> (2019) - <strong>Preprint</strong></p></li>
 <li><p><strong>NR Johnson</strong>, and MJ Axtell. <a href="https://doi.org/10.1016/j.pbi.2019.03.014">Small RNA warfare: exploring origins and function of <em>trans</em>-species microRNAs from the parasitic plant <em>Cuscuta</em></a>, <em>Curr. Opin. Plant Biology</em> (2019) - <strong>Review</strong></p></li>
 <li><p>S Shahid, G Kim, <strong>NR Johnson</strong>, E Wafula, F Wang, C Coruh, V Bernal-Galeano, T Phifer, CW dePamphilis, JH Westwood, MJ Axtell. <a href="https://doi.org/10.1038/nature25027">“MicroRNAs from the parasitic plant Cuscuta campestris target host messenger RNAs”</a>. <em>Nature</em> (2018) - <strong>Research</strong></p></li>
 <li><p>F Wang, <strong>NR Johnson</strong>, C Coruh and MJ Axtell. <a href="https://doi.org/10.1093/nar/gkw457">“Genome-wide analysis of single non-templated nucleotides in plant endogenous siRNAs and miRNAs”</a>. <em>Nucleic Acids Res.</em> (2016) - <strong>Research</strong></p></li>
@@ -332,6 +326,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
