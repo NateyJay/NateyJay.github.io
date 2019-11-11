@@ -8,7 +8,7 @@ title: "Projects and Interests"
 ###Investigation of sRNAs in parasitic plants
 Small regulatory RNAs (sRNAs) are thought to function in *trans*-species regulation between host and parasite/pathogen. Our work examined this system in parasitism by the noxious weed *Cuscuta campestris*, finding numerous micro RNAs (miRNAs) which regulate host mRNAs. Recent work has looked broadly at the *Cuscuta* genus, finding that the parasite produces a broad spectrum of sRNAs which can target host mRNAs. Furthermore, this provides an evolutionary paradigm by which the parasite can maintain targeting in-spite of host adaptation.
 
-* __NR Johnson__, CW dePamphilis, and MJ Axtell. [Compensatory sequence variation between trans-species small RNAs and their target sites](https://www.biorxiv.org/content/10.1101/675900v1), *BioRxiv* (2019) - **Preprint**
+* __NR Johnson__, CW dePamphilis, and MJ Axtell. [Compensatory sequence variation between trans-species small RNAs and their target sites](https://doi.org/10.1101/675900), *BioRxiv* (2019) - **Preprint**
 
 * __NR Johnson__, and MJ Axtell. [Small RNA warfare: exploring origins and function of *trans*-species microRNAs from the parasitic plant *Cuscuta*](https://doi.org/10.1016/j.pbi.2019.03.014), *Curr. Opin. Plant Biology* (2019) - **Review**
 
