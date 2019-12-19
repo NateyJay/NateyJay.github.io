@@ -3,7 +3,7 @@ title: "Publications"
 output: html_document
 ---
 
-1. A Lunardon, __NR Johnson__, E Hagerot, T Phifer, S Polydore, C Coruh, and MJ Axtell. [Integrated annotations and analyses of small RNA-producing loci from 47 diverse plants](https://doi.org/10.1101/756858), *BioRxiv* (2019) -- **Preprint**
+1. A Lunardon, __NR Johnson__, E Hagerot, T Phifer, S Polydore, C Coruh, and MJ Axtell. [Integrated annotations and analyses of small RNA-producing loci from 47 diverse plants](https://doi.org/10.7554/eLife.49750), *eLife* (2019) -- **Research**
 
 2. __NR Johnson__, CW dePamphilis, and MJ Axtell. [Compensatory sequence variation between trans-species small RNAs and their target sites](https://doi.org/10.1101/675900), *eLife* (2019) - **Research, In Press**
 
